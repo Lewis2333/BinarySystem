@@ -1,0 +1,34 @@
+BinarySystem:
+#自定义天体数据
+  CelestialBody_1:  #子天体
+    #该星球名称
+    disname: "行星A"
+    #质量m (单位:亿万千克)
+    quality: 320
+    #半径r1 (单位:亿万千米)
+    radius: 11
+    #周期T1(单位:年)
+    range: 12
+  CelestialBody_2:  #子天体
+    #该星球名称
+    disname: "行星B"
+    #质量m (单位:亿万千克))
+    quality: 1
+    #半径r2 (单位:亿万千米)
+    radius: 1
+    #周期T2(单位:年)
+    range: 1
+  CentralCelestialBody: #中心天体
+    #该星球名称
+    disname: "恒星"
+    #质量M (单位:亿万千克)
+    quality: 3300
+    #半径R (单位:亿万千米)
+    radius: 109
+
+
+
+
+
+
+

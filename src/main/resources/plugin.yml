@@ -1,0 +1,14 @@
+name: BinarySystem
+version: ${project.version}
+main: com.github.lewis2333.Main
+api-version: 1.16
+
+commands:
+  BinarySystem:
+    description: "[BinarySystem] 一个催熟的小插件owo"
+permissions:
+  BinarySystem.admin:
+    description: "[BinarySystem] 管理员使用的指令~"
+    default: op
+  BinarySystem.use:
+    default: true

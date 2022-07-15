@@ -1,0 +1,12 @@
+#请勿更改表头信息，例如Start，消息内容可随意改
+Start: "&b[BinarySystem] &7正在启动天体系统..."
+errormode: "错误！数据溢出 插件已关闭！"
+Reload: "&b[BinarySystem] &c重载配置文件成功~"
+HelpMessage:
+  0: "============§b[BinarySystem]§f============"
+  1: " ► §7/BinarySystem start 开启天体模式"
+  2: " "
+  3: " ► §7/BinarySystem reload 重载配置文件(Settings)"
+  4: "============§b[@By Lewis]§f============"
+
+
